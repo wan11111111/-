@@ -1,0 +1,13 @@
+# 运行 nsga-ii.py 需要的 Python 库
+# 可直接使用下面命令安装：
+# pip install -r dependencies.txt
+
+numpy
+pandas
+scikit-learn
+pymoo
+matplotlib
+scipy
+
+# 可选（用于高斯过程或进一步不确定性方法）
+# scikit-optimize
